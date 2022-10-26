@@ -1,13 +1,14 @@
 Crimson
 Orange
-Green
+Blue
 Cyan
 Yellow
-Ivory
+gray
 Khaki
 Coral
 Silver
 Fuchsia
-Gray
+Purple
 Brown
-Red
+siver
+Wonderful changes to the life of a programmer 
